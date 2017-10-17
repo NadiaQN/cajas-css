@@ -1,0 +1,47 @@
+
+.caja1 .cajaA{
+	background-color: red;
+	width: 400px;
+	height: 400px;
+	position: relative;
+}
+.caja1 .cajaB{
+	background-color: purple;
+	width: 200px;
+	height: 200px;
+	position: relative;
+	bottom: 300px;
+	left: 100px;
+
+}
+.caja1 .cajaC{
+	background-color: yellow;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	bottom: 500px;
+	left: 100px;
+
+}
+.caja2 .cajaD{
+	position: relative;
+	background-color: blue;
+	width: 400px;
+	height: 400px;
+	bottom: 200px;
+}
+.caja2 .cajaE{
+	position: relative;
+	background-color: green;
+	width: 200px;
+	height: 200px;
+	bottom: 500px;
+	left: 100px;
+}
+.caja2 .cajaF{
+	position: relative;
+	background-color: black;
+	width: 100px;
+	height: 100px;
+	bottom: 800px;
+}
